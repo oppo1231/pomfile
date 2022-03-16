@@ -12,7 +12,7 @@
      <version>3.0.0-M5</version>
      <configuration>
      <includes>
-     <exclude>**/*ECommerceUsers.java</exclude>
+     <exclude>**/*Ecommerce.java</exclude>
      </includes>
      </configuration>
     </plugin>
